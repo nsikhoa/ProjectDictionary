@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<DictionaryItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Items>
+    <Dictionary>
+      <Key>abide</Key>
+      <Meaning>tôn trọng, tuân theo</Meaning>
+      <Explaination>hành động đúng theo cái gì; tôn trọng; trung thành tông trọng, giữ, tuân theo, chịu theo; trung thành với
+      </Explaination>
+    </Dictionary>
+    <Dictionary>
+      <Key>agreement</Key>
+      <Meaning>sự thỏa thuận</Meaning>
+      <Explaination>thỏa thuận, hứa hẹn, giao kèo với ai</Explaination>
+    </Dictionary>
+    <Dictionary>
+      <Key>assurance</Key>
+      <Meaning>bảo đảm, chắc chắn</Meaning>
+      <Explaination>sự chắc chắn, sự quả quyết, sự cam đoan, điều chắc chắn, điều tin chắc. </Explaination>
+    </Dictionary>
+    <Dictionary>
+      <Key>cancellation</Key>
+      <Meaning>sự bãi bỏ, hủy bỏ</Meaning>
+      <Explaination />
+    </Dictionary>
+    <Dictionary>
+      <Key>determine</Key>
+      <Meaning>quyết định, xác định, định rõ</Meaning>
+      <Explaination />
+    </Dictionary>
+    <Dictionary>
+      <Key>engage</Key>
+      <Meaning>tham gia, cam kết</Meaning>
+      <Explaination />
+    </Dictionary>
+    <Dictionary>
+      <Key>obligate</Key>
+      <Meaning>bắt buộc, ép buộc</Meaning>
+      <Explaination />
+    </Dictionary>
+    <Dictionary>
+      <Key>party</Key>
+      <Meaning>tiệc, buổi liên hoan</Meaning>
+      <Explaination />
+    </Dictionary>
+    <Dictionary>
+      <Key>provision</Key>
+      <Meaning>điều khoản, sự cung cấp</Meaning>
+      <Explaination />
+    </Dictionary>
+    <Dictionary>
+      <Key>resolve</Key>
+      <Meaning>giải quyết, sự kiên quyết</Meaning>
+      <Explaination />
+    </Dictionary>
+    <Dictionary>
+      <Key>specific</Key>
+      <Meaning>riêng biệt, cụ thể, rõ ràng, rành mạch</Meaning>
+      <Explaination />
+    </Dictionary>
+  </Items>
+</DictionaryItem>

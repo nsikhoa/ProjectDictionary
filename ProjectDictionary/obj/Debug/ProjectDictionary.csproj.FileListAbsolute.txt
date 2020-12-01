@@ -1,0 +1,9 @@
+D:\Nguyen Dinh Si Khoa\Bài tập C#WinForm\ProjectDictionary\ProjectDictionary\bin\Debug\ProjectDictionary.exe.config
+D:\Nguyen Dinh Si Khoa\Bài tập C#WinForm\ProjectDictionary\ProjectDictionary\bin\Debug\ProjectDictionary.exe
+D:\Nguyen Dinh Si Khoa\Bài tập C#WinForm\ProjectDictionary\ProjectDictionary\bin\Debug\ProjectDictionary.pdb
+D:\Nguyen Dinh Si Khoa\Bài tập C#WinForm\ProjectDictionary\ProjectDictionary\obj\Debug\ProjectDictionary.csprojAssemblyReference.cache
+D:\Nguyen Dinh Si Khoa\Bài tập C#WinForm\ProjectDictionary\ProjectDictionary\obj\Debug\ProjectDictionary.Form1.resources
+D:\Nguyen Dinh Si Khoa\Bài tập C#WinForm\ProjectDictionary\ProjectDictionary\obj\Debug\ProjectDictionary.Properties.Resources.resources
+D:\Nguyen Dinh Si Khoa\Bài tập C#WinForm\ProjectDictionary\ProjectDictionary\obj\Debug\ProjectDictionary.csproj.GenerateResource.cache
+D:\Nguyen Dinh Si Khoa\Bài tập C#WinForm\ProjectDictionary\ProjectDictionary\obj\Debug\ProjectDictionary.exe
+D:\Nguyen Dinh Si Khoa\Bài tập C#WinForm\ProjectDictionary\ProjectDictionary\obj\Debug\ProjectDictionary.pdb
